@@ -23,6 +23,4 @@ Spring Boot Complete usage and documentation available at: [图文并茂之Sprin
 
 ## 联系我们
 
-有任何建议或者意见,请联系我 [please send email](boyisxuxu@gmail.com)
-
-
+有任何建议或者意见,请联系我boyisxuxu@gmail.com
