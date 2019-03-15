@@ -1,31 +1,19 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Hello 欢迎来到郑方行的博客!
+tagline: 微信:475164744
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+CSDN: [郑方行](https://blog.csdn.net/weixin_41388729)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+Spring Boot Complete usage and documentation available at: [图文并茂之Spring Boot从入门到精通](https://blog.csdn.net/weixin_41388729/article/details/87997531)
 
-## Update Author Attributes
+## 座右铭
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
+### **但行好事,莫问前程**
     
 ## 博客列表 
-
-Here's a sample "posts list".
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -33,9 +21,8 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
-## To-Do
+## 联系我们
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+有任何建议或者意见,请联系我 [please send email](boyisxuxu@gmail.com)
 
 
